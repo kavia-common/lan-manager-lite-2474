@@ -24,3 +24,4 @@ missing
 Makefile
 Makefile.in
 stamp-h1
+.file_activity_report.json
